@@ -1,5 +1,3 @@
-demo : https://abdotaha2000.github.io/template-1/
-
-template 1
+demo :  https://abdotaha2000.github.io/Bandi/
 
  Html,css,bootstrap 
